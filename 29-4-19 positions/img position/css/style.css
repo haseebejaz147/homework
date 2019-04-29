@@ -1,0 +1,22 @@
+#main{
+	position: relative;
+	height: 200px;
+	width: 400px;
+	border:1px solid;
+	left: 100px;
+	top: 100px;
+	border-radius:12px;
+}
+.ph h3,p{
+	margin-left: 170px;
+	margin-top: 50px;
+}
+.img img{
+
+	position: absolute;
+	height:170px;
+	width: 120px;
+	top: 5px;
+	left:9px;
+
+}
